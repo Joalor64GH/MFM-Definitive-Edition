@@ -1,7 +1,5 @@
-# ANNOUNCEMENT TIME
-* Three playtesters and three charters are needed for this thing!
-* Because I'm literally doing everything myself. 💀
-* Apply [Here](https://docs.google.com/forms/d/e/1FAIpQLSe79y4ldB4uf6yUbJKpoWgu1gkli6-lG2W7-bYyJF4i2KDcWQ/viewform?usp=sf_link)
+# Mid Fight Masses: Definitive Edition
+* lol funni ice cream nun go brrr
 
 # Joalor64 Engine
 * My custom version of Psych Engine made with some changes lol.

@@ -574,16 +574,16 @@ class TitleState extends MusicBeatState
 			{
 				case 1:
 					#if PSYCH_WATERMARKS
-					createCoolText(['Created by'], 15);
+					createCoolText(['Originally Created by'], 15);
 					#else
 					createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
 					#end
 				// credTextShit.visible = true;
 				case 3:
 					#if PSYCH_WATERMARKS
-					addMoreText('Joalor64 YT', 15);
-					addMoreText('Bot 404', 15);
-					addMoreText('PE Devs', 15);
+					addMoreText('Dokki,doodlez', 15);
+					addMoreText('kuroao_anomal', 15);
+					addMoreText('Mike Geno', 15);
 					#else
 					addMoreText('present');
 					#end
@@ -626,10 +626,10 @@ class TitleState extends MusicBeatState
 					addMoreText('Friday Night Funkin');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Joalor64 Engine');
+					addMoreText('Mid Fight Masses');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('LOL'); // credTextShit.text += '\nFunkin';
+					addMoreText('Definitive Edition'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();

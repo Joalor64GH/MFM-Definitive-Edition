@@ -1,0 +1,44 @@
+{
+	"storyName": "hating simulator ft. moawling",
+	"difficulties": "Noob, Easy, Normal, Hard, Expert, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Senpai",
+			"senpai-pixel",
+			[
+				255,
+				160,
+				80
+			]
+		],
+		[
+			"Roses",
+			"senpai-pixel",
+			[
+				215,
+				120,
+				60
+			]
+		],
+		[
+			"Thorns",
+			"spirit-pixel",
+			[
+				195,
+				40,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6"
+}

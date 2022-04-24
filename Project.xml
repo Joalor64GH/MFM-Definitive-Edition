@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Mid Fight Masses: Definitive Edition" file="J64Engine" packageName="com.joalor64.mfmde" package="com.joalor64.mfmde" main="Main" version="1.0.0e-beta" company="JoalorEnterprises64" />
+	<app title="Mid Fight Masses: Definitive Edition" file="SarventeMod" packageName="com.joalor64.mfmde" package="com.joalor64.mfmde" main="Main" version="1.0.0e-beta" company="JoalorEnterprises64" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />

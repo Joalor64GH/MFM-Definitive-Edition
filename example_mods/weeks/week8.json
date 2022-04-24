@@ -1,20 +1,15 @@
 {
 	"storyName": "VS Fuckboi",
+	"difficulties": "Hard, Alt",
 	"hideFreeplay": false,
 	"weekBackground": "church",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"sel",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"Demonila",
@@ -43,6 +38,12 @@
 				60
 			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sel",
+		"bf",
+		"gf"
 	],
 	"weekName": "Week 8"
 }

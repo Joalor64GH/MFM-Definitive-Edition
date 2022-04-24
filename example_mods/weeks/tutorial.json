@@ -1,5 +1,5 @@
 {
-	"storyName": "",
+	"storyName": "How to be Funky",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
@@ -11,21 +11,30 @@
 	],
 	"songs": [
 		[
+			"Test",
+			"bf-pixel",
+			[
+				0,
+				215,
+				255
+			]
+		],
+		[
 			"Tutorial",
 			"gf",
 			[
-				146,
-				113,
-				253
+				126,
+				0,
+				73
 			]
 		],
 		[
 			"Tutorial Remix",
 			"gf",
 			[
-				146,
-				113,
-				253
+				126,
+				0,
+				73
 			]
 		]
 	],

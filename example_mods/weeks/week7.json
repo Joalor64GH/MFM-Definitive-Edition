@@ -1,14 +1,16 @@
 {
 	"storyName": "Mid Fight Masses",
+	"difficulties": "Hard, Alt",
 	"hideFreeplay": false,
 	"weekBackground": "church",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"sarv",
 		"bf",
@@ -20,7 +22,7 @@
 			"sarvente",
 			[
 				255,
-				175,
+				135,
 				215
 			]
 		],
@@ -28,9 +30,9 @@
 			"Worship",
 			"sarvente-dark",
 			[
-				255,
-				133,
-				193
+				215,
+				95,
+				175
 			]
 		],
 		[
@@ -46,12 +48,11 @@
 			"Gospel",
 			"sarvente-lucifer",
 			[
-				255,
-				73,
-				173
+				215,
+				0,
+				153
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "week7"
 }

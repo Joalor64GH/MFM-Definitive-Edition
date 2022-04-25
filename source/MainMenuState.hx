@@ -200,7 +200,7 @@ class MainMenuState extends MusicBeatState
 			{
 				if (optionShit[curSelected] == 'donate')
 				{
-					CoolUtil.browserLoad('sites.google.com/view/joalor64official-net6-deez/home');
+					CoolUtil.browserLoad('https://astrortx.itch.io/sarventes-mid-fight-masses-full-week');
 				}
 				else
 				{
